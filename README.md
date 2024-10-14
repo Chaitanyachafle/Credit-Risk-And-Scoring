@@ -1,7 +1,8 @@
 # Credit-Risk-And-Scoring
 
 Credit Data Exploratory Analysis and Hypothetical Credit Score Calculation
-Problem Statement
+
+**Problem Statement**
 This project aims to perform a comprehensive exploratory data analysis (EDA) and deep analysis of a dataset containing customer details and extensive credit-related information. The primary goal is to create new, informative features, develop a methodology to calculate a hypothetical credit score, and uncover patterns and insights within the data that could help in assessing creditworthiness and potential risks.
 
 Dataset
